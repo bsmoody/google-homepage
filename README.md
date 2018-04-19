@@ -1,0 +1,1 @@
+This is a project copying the homepage of GOOGLE HOMEPAGE.
