@@ -1,1 +1,1 @@
-This is a project copying the homepage of GOOGLE HOMEPAGE.
+Project of copying GOOGLE Homepage through html and css only.
